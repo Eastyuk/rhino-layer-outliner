@@ -1,0 +1,16 @@
+Change log
+v3.2
+Fixed: Refresh failed with "object is not iterable" and lost which branches were open.
+v3.1
+Fixed: Rhino could close when you renamed a row or used the Show checkbox. Tree refreshes now run after the edit finishes.
+Every handler now catches its own errors and reports them on the Rhino command line as "Outliner error".
+v3
+Added Show checkbox column for hide/show of objects and layer on/off.
+Added right-click menu: Hide, Show, Isolate, Unisolate, Show all hidden objects.
+Added multi-select.
+v2
+Added rename in place for objects and layers, with undo.
+Layers now show as a nested tree.
+Added Info and Type columns.
+v1
+First release: layer list with objects, click to select and zoom.
