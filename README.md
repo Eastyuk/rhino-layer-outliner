@@ -2,7 +2,8 @@
 
 A small outliner window for Rhino 8: the layer tree with every object listed under its layer. Rhino's Layers panel shows layers only. This shows what is on them.
 
-![Layer Outliner screenshot](screenshot.png)
+<img width="649" height="297" alt="screenshot-menu" src="https://github.com/user-attachments/assets/88071db3-34a1-4ee6-9ef2-201d3dd2136f" />
+
 
 ## Features
 
