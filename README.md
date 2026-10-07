@@ -4,6 +4,7 @@ A small outliner window for Rhino 8: the layer tree with every object listed und
 
 <img width="649" height="297" alt="screenshot-menu" src="https://github.com/user-attachments/assets/88071db3-34a1-4ee6-9ef2-201d3dd2136f" />
 
+<img width="1152" height="127" alt="screenshot-rename" src="https://github.com/user-attachments/assets/585a3310-1226-4b8f-9175-d11d94df387b" />
 
 ## Features
 
